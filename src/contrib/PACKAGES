@@ -1,0 +1,11 @@
+Package: data.table
+Version: 1.10.5
+Depends: R (>= 3.0.0)
+Imports: methods
+Suggests: bit64, knitr, nanotime, chron, ggplot2 (>= 0.9.0), plyr,
+        reshape, reshape2, testthat (>= 0.4), hexbin, fastmatch, nlme,
+        xts, gdata, GenomicRanges, caret, curl, zoo, plm, rmarkdown,
+        parallel
+License: GPL-3 | file LICENSE
+MD5sum: ab541536b52796829d8f2b66a1f02c35
+NeedsCompilation: yes
